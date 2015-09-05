@@ -1,6 +1,9 @@
 package net.anthonyferrillo.codewar.test;
 
 /**
+ * Name: 
+ * Breaking chocolate problem
+ * 
  * Description:
  * Your task is to split the chocolate bar of given dimension n x m into small squares. 
  * Each square is of size 1x1 and unbreakable. 
